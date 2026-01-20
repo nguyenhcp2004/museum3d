@@ -1,0 +1,100 @@
+{
+  "artworks": [
+    {
+      "id": 1,
+      "image": "/image/img1.jpg",
+      "title": "Chủ tịch Hồ Chí Minh - Người sáng lập Đảng",
+      "content": "Ngày 3 tháng 2 năm 1930, tại Hương Cảng (Trung Quốc), Nguyễn Ái Quốc đã chủ trì Hội nghị hợp nhất các tổ chức cộng sản trong nước, thành lập Đảng Cộng sản Việt Nam. Đây là sự kiện có ý nghĩa lịch sử vô cùng to lớn, mở ra kỷ nguyên mới cho cách mạng Việt Nam. Người đã khẳng định: 'Đảng là người lãnh đạo, là người tổ chức mọi cuộc đấu tranh giải phóng của dân tộc và giai cấp'."
+    },
+    {
+      "id": 2,
+      "image": "/image/img2.jpg",
+      "title": "Tư tưởng về Đảng cách mạng chân chính",
+      "content": "Chủ tịch Hồ Chí Minh khẳng định: 'Đảng ta là Đảng cách mạng chân chính, là Đảng của nhân dân, vì nhân dân mà phấn đấu'. Đảng Cộng sản Việt Nam ra đời không phải từ sự ngẫu nhiên mà là kết quả tất yếu của sự phát triển lịch sử dân tộc và phong trào công nhân Việt Nam. Đảng lấy chủ nghĩa Mác - Lênin làm nền tảng tư tưởng, kim chỉ nam cho hành động."
+    },
+    {
+      "id": 3,
+      "image": "/image/img3.jpg",
+      "title": "Đảng là đội tiên phong của giai cấp công nhân",
+      "content": "Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam là đội tiên phong của giai cấp công nhân, đồng thời là đội tiên phong của nhân dân lao động và của dân tộc Việt Nam. Đảng đại biểu cho lợi ích của giai cấp công nhân, nhân dân lao động và của cả dân tộc. Người viết: 'Đảng phải thật sự là đạo đức, là văn minh, là đội tiên phong của dân tộc Việt Nam'."
+    },
+    {
+      "id": 4,
+      "image": "/image/img4.jpg",
+      "title": "Xây dựng Đảng trong sạch, vững mạnh",
+      "content": "Chủ tịch Hồ Chí Minh luôn coi trọng công tác xây dựng Đảng. Người nhấn mạnh: 'Muốn xây dựng chủ nghĩa xã hội, trước hết phải có những con người xã hội chủ nghĩa'. Người đặc biệt chú trọng đến việc rèn luyện đạo đức cách mạng cho cán bộ, đảng viên. Đảng phải luôn giữ gìn sự trong sạch về chính trị, tư tưởng và tổ chức, phải gần dân, sát dân, hiểu dân, học dân."
+    },
+    {
+      "id": 5,
+      "image": "/image/img5.jpg",
+      "title": "Đảng lãnh đạo toàn diện cách mạng Việt Nam",
+      "content": "Tư tưởng Hồ Chí Minh khẳng định vai trò lãnh đạo toàn diện của Đảng đối với cách mạng Việt Nam. Đảng lãnh đạo về chính trị, tư tưởng và tổ chức. Người viết: 'Đảng là người lãnh đạo, là người tổ chức mọi cuộc đấu tranh giải phóng của dân tộc và giai cấp'. Sự lãnh đạo của Đảng là nhân tố quyết định mọi thắng lợi của cách mạng Việt Nam."
+    },
+    {
+      "id": 6,
+      "image": "/image/img6.jpg",
+      "title": "Nhà nước của dân, do dân, vì dân",
+      "content": "Đây là tư tưởng cốt lõi của Chủ tịch Hồ Chí Minh về Nhà nước. 'Của dân' nghĩa là quyền lực Nhà nước thuộc về nhân dân. 'Do dân' nghĩa là nhân dân trực tiếp hoặc gián tiếp thông qua đại biểu do mình bầu ra để thực hiện quyền lực Nhà nước. 'Vì dân' nghĩa là mọi hoạt động của Nhà nước đều vì lợi ích của nhân dân. Đây là bản chất của Nhà nước Việt Nam."
+    },
+    {
+      "id": 7,
+      "image": "/image/img7.jpg",
+      "title": "Dân chủ xã hội chủ nghĩa",
+      "content": "Chủ tịch Hồ Chí Minh khẳng định: 'Dân chủ là quyền làm chủ của nhân dân'. Người chủ trương phát huy quyền làm chủ của nhân dân trong mọi lĩnh vực của đời sống xã hội. Dân chủ xã hội chủ nghĩa không chỉ là dân chủ chính trị mà còn là dân chủ kinh tế, văn hóa, xã hội. Người nhấn mạnh: 'Không có gì quý hơn độc lập, tự do. Nhưng độc lập, tự do phải đi đôi với dân chủ'."
+    },
+    {
+      "id": 8,
+      "image": "/image/img8.jpg",
+      "title": "Mối quan hệ giữa Đảng, Nhà nước và Nhân dân",
+      "content": "Theo tư tưởng Hồ Chí Minh, Đảng, Nhà nước và Nhân dân có mối quan hệ mật thiết, không tách rời. Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ. Người viết: 'Đảng cầm quyền phải thật sự là đầy tớ thật trung thành của nhân dân'. Nhà nước là công cụ để Đảng lãnh đạo nhân dân thực hiện quyền làm chủ. Nhân dân là chủ thể của cách mạng, là nguồn gốc của mọi quyền lực."
+    },
+    {
+      "id": 9,
+      "image": "/image/img9.jpg",
+      "title": "Đoàn kết toàn dân tộc",
+      "content": "Chủ tịch Hồ Chí Minh coi đoàn kết là truyền thống quý báu, là sức mạnh to lớn của dân tộc. Người viết: 'Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công'. Người chủ trương xây dựng khối đại đoàn kết toàn dân tộc dưới sự lãnh đạo của Đảng, đoàn kết tất cả những người yêu nước, không phân biệt giai cấp, tôn giáo, dân tộc, để cùng nhau xây dựng và bảo vệ Tổ quốc."
+    },
+    {
+      "id": 10,
+      "image": "/image/img10.jpg",
+      "title": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+      "content": "Tư tưởng Hồ Chí Minh khẳng định: 'Không có gì quý hơn độc lập, tự do'. Nhưng độc lập dân tộc phải gắn liền với chủ nghĩa xã hội. Chỉ có chủ nghĩa xã hội mới đảm bảo độc lập dân tộc thực sự và lâu dài. Người viết: 'Độc lập mà không có tự do, hạnh phúc thì độc lập cũng chẳng có ý nghĩa gì'. Đây là con đường đúng đắn mà Đảng và Nhân dân ta đã lựa chọn."
+    },
+    {
+      "id": 11,
+      "image": "/image/img11.jpg",
+      "title": "Đạo đức cách mạng",
+      "content": "Chủ tịch Hồ Chí Minh coi đạo đức là gốc của người cách mạng. Người viết: 'Đạo đức cách mạng là nền tảng của người cách mạng'. Người đề ra chuẩn mực đạo đức: 'Cần, Kiệm, Liêm, Chính, Chí công vô tư'. Đạo đức cách mạng không chỉ là phẩm chất cá nhân mà còn là sức mạnh to lớn, là vũ khí sắc bén để chiến thắng mọi kẻ thù, khó khăn."
+    },
+    {
+      "id": 12,
+      "image": "/image/img12.jpg",
+      "title": "Phong cách Hồ Chí Minh",
+      "content": "Phong cách Hồ Chí Minh là sự thống nhất giữa lời nói và việc làm, giữa lý luận và thực tiễn. Đó là phong cách dân chủ, khiêm tốn, gần gũi nhân dân. Người luôn sống giản dị, trong sạch, gương mẫu. Người dạy: 'Nói đi đôi với làm, nói ít làm nhiều'. Phong cách Hồ Chí Minh là tài sản quý báu của Đảng và dân tộc ta, cần được học tập và phát huy."
+    },
+    {
+      "id": 13,
+      "image": "/image/img13.jpg",
+      "title": "Chủ nghĩa yêu nước",
+      "content": "Chủ nghĩa yêu nước là giá trị cốt lõi trong tư tưởng Hồ Chí Minh. Người viết: 'Yêu nước là truyền thống quý báu của dân tộc ta'. Lòng yêu nước phải gắn liền với chủ nghĩa quốc tế trong sáng. Người dạy: 'Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người'. Mỗi người dân Việt Nam đều phải có lòng yêu nước nồng nàn, sẵn sàng cống hiến cho Tổ quốc."
+    },
+    {
+      "id": 14,
+      "image": "/image/img14.jpg",
+      "title": "Đại đoàn kết quốc tế",
+      "content": "Chủ tịch Hồ Chí Minh chủ trương kết hợp sức mạnh dân tộc với sức mạnh thời đại. Người viết: 'Đoàn kết quốc tế của giai cấp công nhân và nhân dân lao động là nguồn sức mạnh to lớn'. Người chủ trương đoàn kết với các nước xã hội chủ nghĩa, với phong trào công nhân quốc tế, với phong trào giải phóng dân tộc, với tất cả những người yêu chuộng hòa bình và tiến bộ trên thế giới."
+    },
+    {
+      "id": 15,
+      "image": "/image/img15.jpg",
+      "title": "Văn hóa, giáo dục và con người",
+      "content": "Chủ tịch Hồ Chí Minh coi văn hóa là nền tảng tinh thần của xã hội. Người viết: 'Vì lợi ích trăm năm thì phải trồng người'. Người chủ trương xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc. Giáo dục phải đào tạo con người mới xã hội chủ nghĩa: có đạo đức, có tri thức, có sức khỏe, có tay nghề. Người là tấm gương sáng về học tập suốt đời."
+    },
+    {
+      "id": 16,
+      "image": "/image/img16.jpg",
+      "title": "Di sản tư tưởng Hồ Chí Minh - Ánh sáng dẫn đường",
+      "content": "Tư tưởng Hồ Chí Minh là di sản vô giá của dân tộc Việt Nam, là kết tinh trí tuệ của dân tộc và thời đại. Tư tưởng của Người có giá trị lý luận và thực tiễn sâu sắc, là kim chỉ nam cho cách mạng Việt Nam. Đảng và Nhân dân ta kiên định con đường độc lập dân tộc gắn liền với chủ nghĩa xã hội, vận dụng sáng tạo tư tưởng Hồ Chí Minh vào thực tiễn xây dựng và bảo vệ Tổ quốc trong thời kỳ mới."
+    }
+  ]
+}
