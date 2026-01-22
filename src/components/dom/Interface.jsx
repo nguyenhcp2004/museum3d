@@ -46,7 +46,7 @@ export function Interface() {
                         document.querySelector('canvas').requestPointerLock();
                     }}
                 >
-                    <h1 className="text-4xl font-bold mb-4 text-center">TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐẢNG CỘNG SẢN VIỆT NAM VÀ NHÀ NƯỚC CỦA NHÂN DÂN, DO NHÂN DÂN, VÌ NHÂN DÂN</h1>
+                    <h1 className="text-4xl font-bold mb-4 text-center">TRIỂN LÃM SỐ: ÁNH SÁNG NHÂN VĂN - CÂU CHUYỆN VỀ QUYỀN CON NGƯỜI</h1>
                     <p className="text-xl animate-pulse">Nhấp chuột để Khám phá (WASD + Chuột)</p>
                     
                 </div>
@@ -62,7 +62,7 @@ export function Interface() {
                         className="absolute bottom-10 left-1/2 transform -translate-x-1/2 w-full max-w-2xl bg-black/90 text-white p-6 rounded-lg pointer-events-auto border border-yellow-500/30 backdrop-blur-md shadow-[0_0_30px_rgba(255,215,0,0.2)]"
                     >
                         <div className="flex justify-between items-start mb-2 border-b border-white/10 pb-2">
-                            <h2 className="text-3xl font-bold text-yellow-400 font-serif tracking-wide">{interactionData.title}</h2>
+                            <h2 className="text-3xl font-bold text-yellow-400 tracking-wide">{interactionData.title}</h2>
                             <div className="flex gap-2">
                                 <button
                                     onClick={stopSpeaking}
